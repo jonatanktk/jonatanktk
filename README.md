@@ -6,7 +6,7 @@ Ich bin Jonatan KTK.
 
 - **Liorith**
     -> *[github/liorith](https://github.com/liorith)*
-- Für kleinere Solutions
+- Für generell Liorith bezogenem Kram
 <br>
 
 - **Liorith Solutions**
