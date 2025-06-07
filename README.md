@@ -6,18 +6,16 @@ Ich bin Jonatan KTK.
 
 - **Liorith**
     -> *[github/liorith](https://github.com/liorith)*
-
-<!--
-**jonatanktk/jonatanktk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Für kleinere Solutions
+  
+- **Liorith Solutions**
+    -> *[github/liorith-soluts](https://github.com/liorith-soluts)*
+Für die Liorith Solutions
+  
+- **Liorith Studios**
+    -> *[github/liorith-studios](https://github.com/liorith-studios)*
+Für die Liorith Games
+  
+- **Liorith Archive**
+    -> *[github/liorith-archive](https://github.com/liorith-archive)*
+Forks und Archivierte Sachen
