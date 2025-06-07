@@ -5,7 +5,7 @@ Ich bin Jonatan KTK.
 ## Siehe auch:
 
 - **Liorith**
-    -> *github.com/liorith*
+    -> *[Liorith](github.com/liorith)*
 
 <!--
 **jonatanktk/jonatanktk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
