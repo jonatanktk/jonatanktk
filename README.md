@@ -1,3 +1,13 @@
+## Live Discord Status
+
+<p align="center">
+  <a href="https://discord.com/users/1162406077422370997">
+    <img src="https://lanyard-profile-readme.vercel.app/api/1162406077422370997?theme=dark&bg=050505&animated=true&hideDiscrim=true&borderRadius=8px&idleMessage=Probably%20breaking%20something..." alt="Discord Status" width="500"/>
+  </a>
+</p>
+
+## About me
+
 ```JSON
 {
   "user": {
