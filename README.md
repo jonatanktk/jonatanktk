@@ -6,6 +6,11 @@
   </a>
 </p>
 
+## Why are you not active?
+
+I am. But not here. I have my own selfhostet Gitlab Instance on https://git.liorith.dev. 
+So why should I use github for everything?
+
 ## About me
 
 ```JSON
